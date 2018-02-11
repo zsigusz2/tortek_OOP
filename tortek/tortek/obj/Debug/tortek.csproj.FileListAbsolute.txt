@@ -1,0 +1,10 @@
+C:\Users\aspire\Desktop\tortek\tortek\bin\Debug\tortek.exe.config
+C:\Users\aspire\Desktop\tortek\tortek\bin\Debug\tortek.exe
+C:\Users\aspire\Desktop\tortek\tortek\bin\Debug\tortek.pdb
+C:\Users\aspire\Desktop\tortek\tortek\obj\Debug\tortek.csprojResolveAssemblyReference.cache
+C:\Users\aspire\Desktop\tortek\tortek\obj\Debug\tortek.frm_tortek.resources
+C:\Users\aspire\Desktop\tortek\tortek\obj\Debug\tortek.Properties.Resources.resources
+C:\Users\aspire\Desktop\tortek\tortek\obj\Debug\tortek.csproj.GenerateResource.Cache
+C:\Users\aspire\Desktop\tortek\tortek\obj\Debug\tortek.csproj.CoreCompileInputs.cache
+C:\Users\aspire\Desktop\tortek\tortek\obj\Debug\tortek.exe
+C:\Users\aspire\Desktop\tortek\tortek\obj\Debug\tortek.pdb
