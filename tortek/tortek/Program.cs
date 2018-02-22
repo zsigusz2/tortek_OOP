@@ -16,7 +16,7 @@ namespace tortek
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_tortek());
+            Application.Run(new frm_tortek()); //próba:(
         }
     }
 }
